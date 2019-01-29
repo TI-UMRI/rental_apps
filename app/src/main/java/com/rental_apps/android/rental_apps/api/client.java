@@ -10,18 +10,18 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by Iwan on 04/01/2018.
  */
 
 public class client {
-    private  static  final  String BASE_URL="http://192.168.100.6/rental-api/";
-    private  static  final  String BASE_URL_IMAGE="http://192.168.100.6/rental-api/upload/avatars/";
-    private  static  final  String BASE_URL_IMG="http://192.168.100.6/rental-api/upload/";
+    private  static  final  String BASE_URL="https://rentalpkuapi.000webhostapp.com/";
+    private  static  final  String BASE_URL_IMAGE="https://rentalpkuapi.000webhostapp.com/upload/avatars/";
+    private  static  final  String BASE_URL_IMG="https://rentalpkuapi.000webhostapp.com/upload/";
 //    http://192.168.43.221/rental-api/";
 
-//    private  static  final  String BASE_URL="http://192.168.43.98/rental-api/";
-//    private  static  final  String BASE_URL_IMAGE="192.168.43.98/rental-api/upload/avatars/";
-//    private  static  final  String BASE_URL_IMG="http://192.168.43.98/rental-api/upload/";
+//    private  static  final  String BASE_URL="http://192.168.100.6/rental-api/";
+//    private  static  final  String BASE_URL_IMAGE="192.168.100.6/rental-api/upload/avatars/";
+//    private  static  final  String BASE_URL_IMG="http://192.168.100.6/rental-api/upload/";
 
     public static request getApi() {
         //Builder Retrofit

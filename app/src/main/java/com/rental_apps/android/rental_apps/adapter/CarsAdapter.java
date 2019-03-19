@@ -29,10 +29,6 @@ import java.util.List;
 
 import es.dmoral.toasty.Toasty;
 
-/**
- * Created by Asus on 04/01/2018.
- */
-
 public class CarsAdapter extends RecyclerView.Adapter<CarsAdapter.MyViewHolder>{
     private List<DataCars> carsList;
     private int lastPosition=-1;

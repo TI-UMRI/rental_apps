@@ -9,10 +9,6 @@ import okhttp3.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by Iwan on 04/01/2018.
- */
-
 public class client {
     private  static  final  String BASE_URL="http://rentalpku.serveblog.net/";
     private  static  final  String BASE_URL_IMAGE="http://rentalpku.serveblog.net/upload/avatars/";

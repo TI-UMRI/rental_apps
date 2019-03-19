@@ -32,10 +32,6 @@ import java.util.List;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class UsersAdapter extends RecyclerView.Adapter<UsersAdapter.MyViewHolder>{
     private List<DataUser> usersList;
     private Context mContext;

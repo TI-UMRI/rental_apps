@@ -22,10 +22,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class ActivityAdminDashboard extends Fragment implements InitComponent {
     //Declate Toolbar Tittle
     private static final String TEXT_FRAGMENT = "RENTCAR";

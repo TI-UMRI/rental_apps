@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.admin;
 
-/**
- * Created by Muhajir on 07/10/2017.
- */
-
 import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -55,10 +51,6 @@ import es.dmoral.toasty.Toasty;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
 
 public class AdminEditProfile extends AppCompatActivity implements InitComponent, View.OnClickListener {
     private MyEditText name;

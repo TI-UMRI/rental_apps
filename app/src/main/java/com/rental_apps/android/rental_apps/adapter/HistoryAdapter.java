@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.adapter;
 
-/**
- * Created by Ujang Wahyu on 29/01/2018.
- */
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
@@ -22,10 +18,6 @@ import com.rental_apps.android.rental_apps.model.model_history.DataHistory;
 import com.rental_apps.android.rental_apps.user.ActivityDetailListHistory;
 
 import java.util.List;
-
-/**
- * Created by USER on 28/01/2018.
- */
 
 public class HistoryAdapter extends RecyclerView.Adapter<HistoryAdapter.MyViewHolder>{
     private List<DataHistory> historyList;

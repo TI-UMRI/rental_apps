@@ -20,10 +20,6 @@ import com.squareup.picasso.Picasso;
 import customfonts.MyTextView;
 import de.hdodenhof.circleimageview.CircleImageView;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class ActivityDetailUsers extends AppCompatActivity implements InitComponent {
     private MyTextView name;
     private MyTextView email;

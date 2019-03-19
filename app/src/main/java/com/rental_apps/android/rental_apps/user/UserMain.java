@@ -30,10 +30,6 @@ import br.liveo.model.HelpLiveo;
 import br.liveo.navigationliveo.NavigationLiveo;
 import es.dmoral.toasty.Toasty;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class UserMain extends NavigationLiveo implements OnItemClickListener {
     Context mContext;
     private HelpLiveo mHelpLiveo;

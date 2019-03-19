@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.admin;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Context;

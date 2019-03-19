@@ -6,10 +6,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class DateDifference {
     static SimpleDateFormat sdFormat = new SimpleDateFormat("yyyy-MM-dd");
     public static long betweenDates(String firstDate, String secondDate){

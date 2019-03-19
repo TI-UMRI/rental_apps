@@ -3,10 +3,6 @@ package com.rental_apps.android.rental_apps.model.model_detail_history;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by USER on 28/01/2018.
- */
-
 public class DataDetailHistory {
 
     @SerializedName("ID_DETAIL_TRANSAKSI")

@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.model.model_detail_transaksi;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 import java.util.List;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

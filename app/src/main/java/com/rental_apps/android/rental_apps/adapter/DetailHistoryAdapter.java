@@ -32,10 +32,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by USER on 28/01/2018.
- */
-
 public class DetailHistoryAdapter extends RecyclerView.Adapter<DetailHistoryAdapter.MyViewHolder>{
     private List<DataDetailTransaksi> cartList;
     Context mContext;

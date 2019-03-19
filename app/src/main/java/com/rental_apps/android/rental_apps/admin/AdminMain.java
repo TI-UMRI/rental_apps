@@ -21,10 +21,6 @@ import br.liveo.interfaces.OnPrepareOptionsMenuLiveo;
 import br.liveo.model.HelpLiveo;
 import br.liveo.navigationliveo.NavigationLiveo;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 public class AdminMain extends NavigationLiveo implements OnItemClickListener {
     Context mContext;
     private HelpLiveo mHelpLiveo;

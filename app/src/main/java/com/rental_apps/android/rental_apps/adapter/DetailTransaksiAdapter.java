@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.adapter;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;

@@ -1,9 +1,5 @@
 package com.rental_apps.android.rental_apps.helper;
 
-/**
- * Created by Ujang Wahyu on 04/01/2018.
- */
-
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;

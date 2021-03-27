@@ -10,15 +10,15 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class client {
-    private  static  final  String BASE_URL="http://rentalpku.serveblog.net/";
-    private  static  final  String BASE_URL_IMAGE="http://rentalpku.serveblog.net/upload/avatars/";
-    private  static  final  String BASE_URL_IMG="http://rentalpku.serveblog.net/upload/";
+//    private  static  final  String BASE_URL="http://rentalpku.serveblog.net/";
+//    private  static  final  String BASE_URL_IMAGE="http://rentalpku.serveblog.net/upload/avatars/";
+//    private  static  final  String BASE_URL_IMG="http://rentalpku.serveblog.net/upload/";
 
 //    http://192.168.43.221/rental-api/";
 
-//    private  static  final  String BASE_URL="http://192.168.100.6/rental_mobil/api/";
-//    private  static  final  String BASE_URL_IMAGE="192.168.100.6/rental_mobil/api/upload/avatars/";
-//    private  static  final  String BASE_URL_IMG="http://192.168.100.6/rental_mobil/api/upload/";
+    private  static  final  String BASE_URL="http://192.168.100.6/rental-api/";
+    private  static  final  String BASE_URL_IMAGE="192.168.100.6/rental-api/upload/avatars/";
+    private  static  final  String BASE_URL_IMG="http://192.168.100.6/rental-api/upload/";
 
     public static request getApi() {
         //Builder Retrofit
